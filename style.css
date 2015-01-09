@@ -1,0 +1,80 @@
+#heure{
+	position: absolute;
+	top: 150px;
+	left: 983px;
+}
+
+#minute{
+	position: absolute;
+	top: 150px;
+	left: 983px;
+}
+
+#seconde{
+	position: absolute;
+	top: 150px;
+	left: 984px;
+}
+
+
+#lobbyGfx{
+	position: absolute;
+	left: 20%;
+	top :167px;
+}
+#recupCode{
+	position: absolute;
+	left: 20%;
+	top : 283px;
+}
+
+#buttonCours{
+	position: absolute;
+	left: 20%;
+	top: 396px;
+}
+
+#discussion{
+	position: absolute;
+	left: 20%;
+	top: 50px:
+}
+	
+body {
+    background-color:#F6E497;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #003a6b;
+    background-color: transparent;
+    font: 100% 'Lucida Grande', Verdana, Geneva, Lucida, Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding-top: 0.5em;
+}
+h1 {
+    font-size: 130%;
+    margin-bottom: 0.5em;
+    border-bottom: 2px solid #375D81;
+}
+h2 {
+    font-size: 120%;
+    margin-bottom: 0.5em;
+    border-bottom: 1px solid #aaaa;
+}
+h3 {
+    font-size: 110%;
+    margin-bottom: 0.5em;
+    text-decoration: underline;
+}
+h4 {
+    font-size: 100%;
+    font-weight: bold;
+}
+h5 {
+    font-size: 100%;
+    font-weight: bold;
+}
+h6 {
+    font-size: 80%;
+    font-weight: bold;
+}
