@@ -1,47 +1,10 @@
-#heure{
-	position: absolute;
-	top: 150px;
-	left: 983px;
-}
-
-#minute{
-	position: absolute;
-	top: 150px;
-	left: 983px;
-}
-
-#seconde{
-	position: absolute;
-	top: 150px;
-	left: 984px;
-}
-
-
-#lobbyGfx{
-	position: absolute;
-	left: 20%;
-	top :167px;
-}
-#recupCode{
-	position: absolute;
-	left: 20%;
-	top : 283px;
-}
-
-#buttonCours{
-	position: absolute;
-	left: 20%;
-	top: 396px;
-}
-
-#discussion{
-	position: absolute;
-	left: 20%;
-	top: 50px:
-}
-	
 body {
     background-color:#F6E497;
+}
+
+button {
+    color: #003a6b;
+    background-color: #B4AF91;
 }
 
 h1, h2, h3, h4, h5, h6 {
